@@ -1,15 +1,14 @@
 # Site settings
+author: Valencia Caldwell
 title: The beginning
 header-img: img/home-bg.png
 email: vkcaldwell@gmail.com
-copyright_name: SooBlessd
+copyright_name: Valencia Caldwell
 description: > # this means to ignore newlines until "baseurl:"
   Life of a teacher with a mission to change and inspire the youth
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SooBlessd
-learn_profile: SooBlessd
-email_username: vkcaldwell@gmail.com
 
 # Build settings
 markdown: kramdown
